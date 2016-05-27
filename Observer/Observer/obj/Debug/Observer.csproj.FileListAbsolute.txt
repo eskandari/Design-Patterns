@@ -1,0 +1,6 @@
+C:\@dev\Temp\Observer\Observer\Observer\bin\Debug\Observer.exe.config
+C:\@dev\Temp\Observer\Observer\Observer\bin\Debug\Observer.exe
+C:\@dev\Temp\Observer\Observer\Observer\bin\Debug\Observer.pdb
+C:\@dev\Temp\Observer\Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\@dev\Temp\Observer\Observer\Observer\obj\Debug\Observer.exe
+C:\@dev\Temp\Observer\Observer\Observer\obj\Debug\Observer.pdb
